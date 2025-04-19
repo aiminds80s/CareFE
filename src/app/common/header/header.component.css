@@ -1,0 +1,7 @@
+.bg-custom {
+    background-image: url(../../../../public//images/heroImg.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 125px;
+  }
