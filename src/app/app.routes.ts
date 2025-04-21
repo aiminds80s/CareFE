@@ -17,6 +17,7 @@ export const routes: Routes = [
     { path: 'maintenance', component: MaintenanceComponent },
     { path: 'help', component: HelpComponent },
     { path: 'search', component: SearchComponent },
+    { path: 'signup', component: SignupComponent },
     { path: '', redirectTo: '/home', pathMatch: 'full' },
     { path: '**', component: NotfoundComponent }
 ];
